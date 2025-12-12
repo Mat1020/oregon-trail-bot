@@ -4,6 +4,8 @@ An atonomous bot that sets-up the start of speedrunning for [The Oregon Trail](h
 ## Bot Actions
 Basically, this bot uses a specifc sets of actions in order to start your trail in a a specific way to set your speedrun at the beggining. It would type quicly through the steps, and wait when neccesary.
 
+I actually forgot where I got these steps from (but I guess it's pretty easy to find them). There's more information of what the bot does in the code.
+
 ## User Actions
 After the bot is done with its job, the rest of the speedrun consists:
 
