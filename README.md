@@ -26,3 +26,8 @@ Copy & paste this on your **terminal (cmd)**:
 ```bash
 pip install pyautogui
 ```
+
+**Notice:** <br>
+I assume that you've already Python installed. Otherwise, go to [python.org](https://www.python.org/) and follow the downloading instructions.
+
+If you've already Python, don't worry about this step.
