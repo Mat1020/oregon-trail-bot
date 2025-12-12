@@ -20,4 +20,9 @@ When you get to choose where to go next again, select "2".
 When you are at "2", select "2" again and enter "y".
 
 ## Requirements
-This bot consistes of using the [pyautogui Python library](https://pyautogui.readthedocs.io/en/latest/), so you need to **pip install it**.
+This bot consistes of using the [pyautogui library](https://pyautogui.readthedocs.io/en/latest/) from Python, so you need to **pip install it**.
+
+Copy & paste this on your **terminal (cmd)**:
+```bash
+pip install pyautogui
+```
