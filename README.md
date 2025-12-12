@@ -1,2 +1,2 @@
 # Oregon Trail Bot (Start for Speedrunning)
-An atonomous bot that sets-up the start of speedrunning for [Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/).
+An atonomous bot that sets-up the start of speedrunning for [Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/) game from 1991.
