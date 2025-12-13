@@ -32,7 +32,7 @@ I assume that you've already Python installed. Otherwise, go to [python.org](htt
 
 This only applies to you if you **don't** have Python on your computer.
 
-## Video
+## YouTube Video
 If you don't trust this project, here's an video of the actual excecution of the code.
 
 It takes about less than **17 seconds** (maybe even faster on another computer) to start the trail, which is very impressive.
