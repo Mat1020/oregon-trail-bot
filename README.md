@@ -36,3 +36,5 @@ This only applies to you if you **don't** have Python on your computer.
 If you don't trust this project, here's an video of the actual excecution of the code.
 
 It takes about less than **17 seconds** (maybe even faster on another computer) to start the trail, which is very impressive.
+
+[![Demo Video](https://img.youtube.com/vi/ia_NPJsQM_o/0.jpg)](https://www.youtube.com/watch?v=ia_NPJsQM_o)
