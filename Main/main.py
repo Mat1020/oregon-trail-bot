@@ -1,7 +1,19 @@
 import pyautogui as pg
 import time
 
-TIMER_SECONDS = 5
+def get_timer_seconds(MINIMUM_TIMER_SECONDS):
+    while True:
+        timer = input("What do you want the timer time (in seconds) be? ")
+        if timer.isdigit():
+            timer = int(timer)
+            if timer >= MINIMUM_TIMER_SECONDS:
+                break
+            else:
+                print(f"Please enter a number greater than {MINIMUM_TIMER_SECONDS} next time.")
+        else:
+            print(f"Please enter a number (in seconds) next time.")
+
+    return timer
 
 def confirm():
     pg.write("y")
@@ -9,7 +21,6 @@ def confirm():
 
 def resume():
     pg.press("Space")
-
 
 def travel_the_trail():
     pg.write("1")
@@ -75,27 +86,35 @@ def start_the_trail():
     pg.write("1") 
     pg.press("Enter")
 
-print(f"Starting in {TIMER_SECONDS} seconds...")
-time.sleep(TIMER_SECONDS)
+# Main code sequence
+def main():
+    timer = get_timer_seconds(5)
+    for _ in range(timer):
+        print(f"Starting in {timer}...")
+        time.sleep(1)
+        timer -= 1
+    time.sleep(timer)
 
-# execution
-travel_the_trail()
-banker_from_boston()
-names_of_members()
-confirm()
-month_of_independence()
+    travel_the_trail()
+    banker_from_boston()
+    names_of_members()
+    confirm()
+    month_of_independence()
 
-for _ in range(4):
+    for _ in range(4):
+        resume()
+
+    buy_supplies()
+
+    for _ in range(2):
+        resume()
+
+    time.sleep(2.80) # the ONLY necessary wait; depends hevaliy on your computer
     resume()
 
-buy_supplies()
-
-for _ in range(2):
+    change_pace()
+    start_the_trail()
     resume()
 
-time.sleep(2.80)
-resume()
-
-change_pace()
-start_the_trail()
-resume()
+if __name__ == "__main__":
+    main()
