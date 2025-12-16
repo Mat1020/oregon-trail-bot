@@ -2,7 +2,7 @@
 An atonomous bot that sets-up the start of speedrunning for [The Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/) video game from 1991.
 
 # Contributing
-Look at [contributing.md](contributing.md) for more information.
+Feel free to open issues or pull requests. See [CONTRIBUTING.md](contributing.md) for details.
 
 ## Bot Actions
 Basically, this bot uses a specifc sets of actions in order to start your trail in a a specific way to set your speedrun at the beggining. It would type quicly through the steps, and wait when neccesary.
