@@ -5,7 +5,7 @@ It takes less than **17 seconds** (maybe even faster on another computer) to sta
 <br>
 [![Oregon Trail Bot Video](https://img.youtube.com/vi/ia_NPJsQM_o/0.jpg)](https://www.youtube.com/watch?v=ia_NPJsQM_o)
 
-This bot is written in **Python, with the pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**.
+This bot is written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**.
 
 ## Contributing
 Feel free to open issues or pull requests. See [CONTRIBUTING.md](contributing.md) for details.
