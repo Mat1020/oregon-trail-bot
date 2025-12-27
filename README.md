@@ -3,7 +3,7 @@ An autonomous bot that sets up the start of speedrunning for [The Oregon Trail](
 
 It takes less than **17 seconds** (maybe even faster on another computer) to start the trail, which is very impressive.
 <br>
-![bot running](GIFs/start-for-speedrunning.gif)
+[![bot running](GIFs/start-for-speedrunning.png)](GIFs/start-for-speedrunning.mp4)
 
 This bot is written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**.
 
