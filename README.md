@@ -4,7 +4,7 @@ An autonomous bot that sets up the start of speedrunning for [The Oregon Trail](
 It takes less than **17 seconds** (maybe even faster on another computer) to start the trail, which is very impressive.
 <br>
 
-![Bot running](GIFs/demo_2.gif)
+![Bot running](GIFs/start-for-speedrunning.gif)
 
 Full run: Donwload the full [MP4 video](https://github.com/Mat1020/oregon-trail-bot/blob/main/GIFs/start-for-speedrunning.mp4) or watch in YouTube (link to YouTube).
 
