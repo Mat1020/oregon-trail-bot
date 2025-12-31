@@ -1,12 +1,16 @@
 # Oregon Trail Bot
 Contains bots created by me for [The Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/) video game from 1991.
 
-These bots are written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**, which means that anyone can use my code as long as they put my name if anyone uses it.
+These bots are written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**, which means that anyone can use my code as long as they put my name if anyone uses it. See [LICENSE.txt](LICENSE.txt) for details.
 
 ## Contributing
-Feel free to open issues or pull requests. See [CONTRIBUTING.md](contributing.md) for details.
+See [CONTRIBUTING.md](contributing.md) for details.
 
-## The Oregon Trail Rights
+## The Oregon Trail Game Rights
+[pcjs.org](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/#pcjs-machines) © 2012-2025 [Jeff Parsons](https://github.com/jeffpar) <br>
+[PCjs](https://github.com/jeffpar/pcjs) is released under an [MIT License](https://www.pcjs.org/LICENSE.txt)
+
+The link that goes to The Oregon Trail video game is not owned by me nor contributed by me, as it's work from another person. See above for more details. 
 
 # Start for Speedrunning Bot
 An autonomous bot that sets up the start for speedrunning in under 15 seconds.
