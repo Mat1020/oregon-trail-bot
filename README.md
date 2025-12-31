@@ -1,4 +1,4 @@
-# Oregon Trail Bot (Start for Speedrunning)
+# Oregon Trail Bot
 An autonomous bot that sets up the start of speedrunning for [The Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/) video game from 1991.
 
 It takes less than **17 seconds** (maybe even faster on another computer) to start the trail, which is very impressive.
