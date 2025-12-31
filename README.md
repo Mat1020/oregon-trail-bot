@@ -1,8 +1,7 @@
 # Oregon Trail Bot
-This repo contains bots made by me for [The Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/) video game from 1991.
+Contains bots created by me for [The Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/) video game from 1991.
 
-
-This bot is written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**.
+These bots are written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**, which means that anyone can use my code as long as they put my name if anyone uses it.
 
 ## Contributing
 Feel free to open issues or pull requests. See [CONTRIBUTING.md](contributing.md) for details.
