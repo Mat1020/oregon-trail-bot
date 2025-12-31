@@ -6,7 +6,7 @@ It takes less than **17 seconds** (maybe even faster on another computer) to sta
 
 ![Bot running](GIFs/demo_2.gif)
 
-Full run (31s): (link to YouTube)
+Full run: Donwload the full [MP4 video](https://github.com/Mat1020/oregon-trail-bot/blob/main/GIFs/start-for-speedrunning.mp4) or watch in YouTube (link to YouTube).
 
 
 This bot is written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**.
