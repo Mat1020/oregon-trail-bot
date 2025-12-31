@@ -5,7 +5,10 @@ It takes less than **17 seconds** (maybe even faster on another computer) to sta
 <br>
 
 [![bot running](GIFs/start-for-speedrunning.png)](GIFs/start-for-speedrunning.mp4)
-![bot running](GIFs/start-for-speedrunning.gif)
+
+![Bot running](GIFs/demo.gif)
+
+Full run (31s): link to MP4 or YouTube
 
 
 This bot is written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**.
