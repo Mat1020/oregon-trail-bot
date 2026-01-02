@@ -20,7 +20,7 @@ An autonomous bot that sets up the start for speedrunning in **under 15 seconds*
 
 **Full run:** Download the full [MP4 video](https://github.com/Mat1020/oregon-trail-bot/blob/main/GIFs/start-for-speedrunning.mp4) or watch in [YouTube](https://www.youtube.com/watch?v=k9FTH87C5b8).
 
-## Requirements
+## Setup
 1. Clone This Repository <br>
 Open Git and copy & paste this command:
 
@@ -28,12 +28,12 @@ Open Git and copy & paste this command:
 git clone https://github.com/Mat1020/oregon-trail-bot.git
 ```
 
-After you clone it, open it with your **code editor/IDE**; examples of these for this project include Visual Studio Code, PyCharm, Sublime Text, Vim, Kite, or any other that can execute and compile **Python** code.
+Open it with your preferred **code editor/IDE**.
 
 2. Install Python on Your Computer <br>
 If you haven't already done so, install the official latest version at [Python.org](https://www.python.org/), choose **your OS**, and follow the downloading instructions.
 
-This bot is particularly compatible with **Python 3.10** and later versions.
+**Python 3.10** or later is recommended.
 
 3. Install and Activate a Virtual Environment (.venv/) <br>
 Within the repository you just cloned, open the terminal and **create your virtual environment**: <br>
@@ -45,7 +45,7 @@ python -m venv .venv
 
 **Command Prompt:** <br>
 ```bash
-.venv\Scripts\activate
+.venv\Scripts\Activate.ps1
 ```
 
 **PowerShell:** <br>
