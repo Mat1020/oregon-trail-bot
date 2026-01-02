@@ -3,7 +3,7 @@ Contains bots created by me for [The Oregon Trail](https://www.pcjs.org/software
 
 These bots are written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**, which means that anyone can use my code as long as they put my name if anyone uses it. See [LICENSE.txt](LICENSE.txt) for details.
 
-## Contributing
+## Want to Contribute?
 See [CONTRIBUTING.md](contributing.md) for details.
 
 ## The Oregon Trail Game Rights
