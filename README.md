@@ -13,25 +13,41 @@ See [CONTRIBUTING.md](contributing.md) for details.
 The link that goes to The Oregon Trail video game is not owned by me nor contributed by me, as it's work from another person. See above for more details. 
 
 # Start for Speedrunning Bot
-An autonomous bot that sets up the start for speedrunning in under 15 seconds.
+An autonomous bot that sets up the start for speedrunning in **under 15 seconds**.
 <br>
 
 ![Bot running](GIFs/start-for-speedrunning.gif)
 
-Full run: Download the full [MP4 video](https://github.com/Mat1020/oregon-trail-bot/blob/main/GIFs/start-for-speedrunning.mp4) or watch in YouTube (link to YouTube).
+**Full run:** Download the full [MP4 video](https://github.com/Mat1020/oregon-trail-bot/blob/main/GIFs/start-for-speedrunning.mp4) or watch in YouTube (link to YouTube).
 
 ## Requirements
-I assume that you've already installed Python. Otherwise, go to [python.org](https://www.python.org/) and follow the downloading instructions.
+1. Clone This Repository <br>
+Open Git and copy & paste this command:
 
-**Pyautogui:** <br>
-This bot consists of using the [pyautogui module](https://pyautogui.readthedocs.io/en/latest/) (or library) from Python, which is **cross-platform** (works in Windows/MacOS/Linux).
-
-If you don't have it already installed, you need to **pip install it**.
-
-Copy & paste this on your **terminal (cmd)**:
 ```bash
-pip install pyautogui
+git clone https://github.com/Mat1020/oregon-trail-bot.git
 ```
+
+After you clone it, open with your **code editor/IDE**; examples of them for this project are Visual Studio Code, PyCharm, Sublime Text, Vim, Kite, Adam, or really any that can execute and compile **Python** code. 
+
+2. Install and Activate a Virtal Enviroment (.venv/) <br>
+Within the repository you just cloned, open the terminal and **create your virtual enviroment**:  
+
+```bash
+python -m venv .venv
+```
+
+4. Install the dependencies on requirements.txt <br>
+On Git, and copy & paste this command:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Install the latest Python version on your machine <br>
+If you haven't already done so, install the official latest version at [Python.org](https://www.python.org/), choose **your OS**, and follow the downloading instructions.
+
+This bot in particular is compatible with **Python 3.10** and so on.
 
 ## Bot Actions
 Essentially, this bot employs a predefined set of actions to initiate your trail in a specific manner, by establishing your speedrun when you first boot the game. It would type _quickly real quick_ through the steps and wait once when necessary.
