@@ -1,7 +1,7 @@
 # Oregon Trail Bot
 A collection of bots that automate and control gameplay behavior for [The Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/) video game from 1991.
 
-These bots are written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**, which means that anyone can use my code as long as they put my name if anyone uses it. See [LICENSE.txt](LICENSE.txt) for details.
+These bots are written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**, which means that anyone can use my code. See [LICENSE.txt](LICENSE.txt) for details.
 
 ## Want to Contribute?
 See [CONTRIBUTING.md](contributing.md) for details.
@@ -24,11 +24,11 @@ An autonomous bot that sets up the start for speedrunning in **under 15 seconds*
 1. Clone This Repository <br>
 Open Git and copy & paste this command:
 
+Then, open it with your preferred **code editor/IDE**.
+
 ```bash
 git clone https://github.com/Mat1020/oregon-trail-bot.git
 ```
-
-Open it with your preferred **code editor/IDE**.
 
 2. Install Python on Your Computer <br>
 If you haven't already done so, install the official latest version at [Python.org](https://www.python.org/), choose **your OS**, and follow the downloading instructions.
@@ -36,7 +36,8 @@ If you haven't already done so, install the official latest version at [Python.o
 **Python 3.10** or later is recommended.
 
 3. Install and Activate a Virtual Environment (.venv/) <br>
-Within the repository you just cloned, open the terminal and **create your virtual environment**: <br>
+Within the repository you just cloned, open the terminal and **create your virtual environment**:
+
 ```bash
 python -m venv .venv
 ```
@@ -64,7 +65,8 @@ source .venv/bin/activate
 ```
 
 4. Install the Dependencies on requirements.txt <br>
-Lastly, on the same terminal, copy & paste this command: <br>
+Lastly, on the same terminal, copy & paste this command:
+
 ```bash
 pip install -r requirements.txt
 ```
