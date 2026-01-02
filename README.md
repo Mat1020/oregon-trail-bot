@@ -18,7 +18,7 @@ An autonomous bot that sets up the start for speedrunning in **under 15 seconds*
 
 ![Bot running](GIFs/start-for-speedrunning.gif)
 
-**Full run:** Download the full [MP4 video](https://github.com/Mat1020/oregon-trail-bot/blob/main/GIFs/start-for-speedrunning.mp4) or watch in YouTube (link to YouTube).
+**Full run:** Download the full [MP4 video](https://github.com/Mat1020/oregon-trail-bot/blob/main/GIFs/start-for-speedrunning.mp4) or watch in [YouTube](https://www.youtube.com/watch?v=k9FTH87C5b8).
 
 ## Requirements
 1. Clone This Repository <br>
