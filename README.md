@@ -69,12 +69,15 @@ Lastly, on the same terminal, copy & paste this command: <br>
 pip install -r requirements.txt
 ```
 
-## Bot Actions
-Essentially, this bot employs a predefined set of actions to initiate your trial in a specific manner, by establishing your speed run when you first boot the game. It would type _quickly real quick_ through the steps and wait once when necessary.
+## Running
+To run the bot, go under the _Main_ folder and then run _main.py_.
+
+### Bot Actions
+Essentially, this bot employs a set of actions to initiate your trial speedrun in a specific manner, by establishing your speedrun when you first boot the game. It would type _quickly real quick_ through the process and wait once when necessary.
 
 There's more detailed information about what the bot does in the comments from the [code](https://github.com/Mat1020/oregon-trail-bot/blob/main/Main/start_for_speed_running_bot.py).
 
-## User Actions
+### User Actions
 After the bot is done with its job, the rest of the speedrun consists:
 
 1. Enter "n" every time you are at a landmark.
