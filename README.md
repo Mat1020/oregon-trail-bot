@@ -28,22 +28,20 @@ Open Git and copy & paste this command:
 git clone https://github.com/Mat1020/oregon-trail-bot.git
 ```
 
-After you clone it, open it with your **code editor/IDE**; examples of them for this project are Visual Studio Code, PyCharm, Sublime Text, Vim, Kite, Adam, or really any that can execute and compile **Python** code. 
+After you clone it, open it with your **code editor/IDE**; examples of these for this project include Visual Studio Code, PyCharm, Sublime Text, Vim, Kite, or any other that can execute and compile **Python** code.
 
 2. Install Python on Your Computer <br>
 If you haven't already done so, install the official latest version at [Python.org](https://www.python.org/), choose **your OS**, and follow the downloading instructions.
 
-This bot in particular is compatible with **Python 3.10** and so on.
+This bot is particularly compatible with **Python 3.10** and later versions.
 
 3. Install and Activate a Virtual Environment (.venv/) <br>
-Within the repository you just cloned, open the terminal and **create your virtual environment**:  
-
+Within the repository you just cloned, open the terminal and **create your virtual environment**: <br>
 ```bash
 python -m venv .venv
 ```
 
-***For Windows:*** <br>
-To activate the virtual environment, you're going to use either the **Command Prompt**, **PowerShell**, or **Git Bash**.
+***For Windows:*** To activate the virtual environment, you're going to use either the **Command Prompt**, **PowerShell**, or **Git Bash**.
 
 **Command Prompt:** <br>
 ```bash
@@ -60,23 +58,21 @@ To activate the virtual environment, you're going to use either the **Command Pr
 source .venv/Scripts/activate
 ```
 
-***For macOS/Linux:***
-For macOS or Linux, you're going to activate it using **bash / zsh**. <br>
+***For macOS/Linux:*** For macOS or Linux, you're going to activate it using **bash / zsh**. <br>
 ```bash
 source .venv/bin/activate
 ```
 
 4. Install the Dependencies on requirements.txt <br>
-Lastly, on the same terminal, copy & paste this command:
-
+Lastly, on the same terminal, copy & paste this command: <br>
 ```bash
 pip install -r requirements.txt
 ```
 
 ## Bot Actions
-Essentially, this bot employs a predefined set of actions to initiate your trail in a specific manner, by establishing your speedrun when you first boot the game. It would type _quickly real quick_ through the steps and wait once when necessary.
+Essentially, this bot employs a predefined set of actions to initiate your trial in a specific manner, by establishing your speed run when you first boot the game. It would type _quickly real quick_ through the steps and wait once when necessary.
 
-I actually forgot where I got these steps from (but I guess it's pretty easy to find them). There's more information about what the bot does in commets from the code.
+There's more detailed information about what the bot does in the comments from the [code](https://github.com/Mat1020/oregon-trail-bot/blob/main/Main/start_for_speed_running_bot.py).
 
 ## User Actions
 After the bot is done with its job, the rest of the speedrun consists:
