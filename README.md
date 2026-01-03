@@ -24,11 +24,12 @@ An autonomous bot that sets up the start for speedrunning in **under 15 seconds*
 1. Clone This Repository <br>
 Open Git and copy & paste this command:
 
-Then, open it with your preferred **code editor/IDE**.
-
 ```bash
 git clone https://github.com/Mat1020/oregon-trail-bot.git
 ```
+
+Then, open it with your preferred **code editor/IDE**.
+
 
 2. Install Python on Your Computer <br>
 If you haven't already done so, install the official latest version at [Python.org](https://www.python.org/), choose **your OS**, and follow the downloading instructions.
