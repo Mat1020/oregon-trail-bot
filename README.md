@@ -92,3 +92,5 @@ When you get to choose where to go next, select "1".
 When you get to choose where to go next again, select "2".
 
 When you are at "2", select "2" again and enter "y".
+
+You should finish _your_ speedrun afterwards!
