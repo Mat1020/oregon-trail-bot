@@ -73,12 +73,12 @@ pip install -r requirements.txt
 ```
 
 ## Running
-To run the bot, you need to first open [The Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/). Then, go under the _Main_ folder and then run _main.py_. Next, run the _Start for Speedrunning Bot_. Finally, go back to The Oregon Trail since the bot runs when you **first boot the game**.
+To run the bot, you need to first open [The Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/) video game. Then, go under the _Main_ folder and then run _main.py_. Next, boot up the _Start for Speedrunning Bot_. Finally, go back to The Oregon Trail since the bot runs when you **first boot the game**.
 
 ### Bot Actions
 Essentially, the purpose for _Start for Speedrunning Bot_ is to **initiate your oregon trail in a specific manner for a speedrun**; by establishing everything you need without the need to remember it or to do it yourself at all!
 
-There's more detailed information about what the bot does in the comments from the [code](https://github.com/Mat1020/oregon-trail-bot/blob/main/Main/start_for_speed_running_bot.py).
+There's more detailed information about what the bot does in the comments from the [code](https://github.com/Mat1020/oregon-trail-bot/blob/main/Main/Bots/start_for_speed_running_bot.py).
 
 ### User Actions
 After the bot is done with its job, the rest of the speedrun consists:
