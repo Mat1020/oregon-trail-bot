@@ -10,7 +10,7 @@ See [CONTRIBUTING.md](https://github.com/Mat1020/oregon-trail-bot?tab=contributi
 [pcjs.org](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/#pcjs-machines) © 2012-2025 [Jeff Parsons](https://github.com/jeffpar) <br>
 [PCjs](https://github.com/jeffpar/pcjs) is released under an [MIT License](https://www.pcjs.org/LICENSE.txt)
 
-The Oregon Trail itself is **open source**, but, however, the link that I include in this repo (that opens up a new window to play in your web browser) is not own by me, as it's work from another person. Click on the links above for more details. 
+The Oregon Trail video game itself is **open source**, but, however, the link that I include in this repo (that opens up a new window to play it in your web browser) is not own by me, as it's work from another person. This is just a notice to avoid being Copyrighted.
 
 # Start for Speedrunning Bot
 An autonomous bot that sets up the start for speedrunning in **under 15 seconds**.
