@@ -1,7 +1,9 @@
 # Oregon Trail Bot
 A collection of bots that automate and control gameplay behavior for [The Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/) video game from 1991.
 
-These bots are written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**, which means that anyone can use my code. See [LICENSE.txt](LICENSE.txt) for details.
+These bots are written in **Python**, with the **pyautogui module**. This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**, which means that anyone can use my code. 
+
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ## Want to Contribute?
 See [CONTRIBUTING.md](https://github.com/Mat1020/oregon-trail-bot?tab=contributing-ov-file) for details.
