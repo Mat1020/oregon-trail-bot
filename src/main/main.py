@@ -1,4 +1,4 @@
-import time, Bots
+import time, bots
 
 bots = {
     "start for speed running bot": 1
@@ -23,7 +23,7 @@ def boot_bot():
             time.sleep(0.5)
 
         if id == 1:
-            Bots.start_for_speed_running_bot.main()
+            bots.start_for_speed_running_bot.main()
 
 def main():
     print("This is where you boot up a bot. These are the available bots: ")
