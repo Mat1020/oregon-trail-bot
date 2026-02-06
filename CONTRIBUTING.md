@@ -9,3 +9,5 @@ When contributing to the Oregon Trail Bot, you'd need to know how this project w
 # How to Contribute
 
 # Guidelines
+
+# Reports
