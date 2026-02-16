@@ -16,17 +16,6 @@ See [CONTRIBUTING.md](https://github.com/Mat1020/oregon-trail-bot?tab=contributi
 
 The Oregon Trail video game itself is **open source**, but, however, the link that I include in this repo (that opens up a new window to play it in your web browser) is not own by me, as it's work from another person. This is just a notice to avoid being Copyrighted.
 
-# Start for Speedrunning Bot
-An autonomous bot that sets up the start for speedrunning in **under 15 seconds**.
-<br>
-
-![Bot running](videos/readme/start-for-speedrunning.gif)
-
-**Full run:** Download the full [MP4 video](https://github.com/Mat1020/oregon-trail-bot/blob/main/videos/readme/start-for-speedrunning.mp4) or watch in [YouTube](https://www.youtube.com/watch?v=k9FTH87C5b8).
-
-> [!WARNING]
-> This bot manipulates **keyboard input**. Make sure the bot **IS NOT** running somewhere else besides The Oregon Trail.
-
 ## Setup
 1. Clone This Repository <br>
 Open Git and copy & paste this command:
@@ -78,6 +67,17 @@ Lastly, on the same terminal, copy & paste this command:
 ```bash
 pip install -r requirements.txt
 ```
+
+# Start for Speedrunning Bot
+An autonomous bot that sets up the start for speedrunning in **under 15 seconds**.
+<br>
+
+![Bot running](videos/readme/start-for-speedrunning.gif)
+
+**Full run:** Download the full [MP4 video](https://github.com/Mat1020/oregon-trail-bot/blob/main/videos/readme/start-for-speedrunning.mp4) or watch in [YouTube](https://www.youtube.com/watch?v=k9FTH87C5b8).
+
+> [!WARNING]
+> This bot manipulates **keyboard input**. Make sure the bot **IS NOT** running somewhere else besides The Oregon Trail.
 
 ## Running
 To run the bot, you need to first open [The Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/) video game. Then, go under the _Main_ folder and then run _main.py_. Next, boot up the _Start for Speedrunning Bot_. Finally, go back to The Oregon Trail since the bot runs when you **first boot the game**.
