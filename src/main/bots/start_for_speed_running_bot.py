@@ -115,6 +115,3 @@ def main():
     change_pace()
     start_the_trail()
     resume()
-
-if __name__ == "__main__":
-    main()
