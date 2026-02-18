@@ -17,7 +17,7 @@ See [CONTRIBUTING.md](https://github.com/Mat1020/oregon-trail-bot?tab=contributi
 The Oregon Trail video game itself is **open source**, but, however, the link that I include in this repo (that opens up a new window to play it in your web browser) is not own by me, as it's work from another person. This is just a notice to avoid being Copyrighted.
 
 ## Installing
-1. To install this repository, open Git and copy & paste this command. Open it with your preferred code editor after doing so.
+1. Open Git and copy & paste this command. Open it with your preferred code editor after doing so.
 
 ```bash
 git clone https://github.com/Mat1020/oregon-trail-bot.git
@@ -28,14 +28,14 @@ git clone https://github.com/Mat1020/oregon-trail-bot.git
 > [!IMPORTANT]
 > Latest Python version (e.g. Python 3.13+) is strongly recommended.
 
-3. Install and Activate a Virtual Environment (.venv/) <br>
-Within the repository you just cloned and opened, open the terminal and **create your virtual environment**:
+3. Open the terminal and install your virtual environment (.venv/) within your cloned version of this repository:
 
 ```bash
 python -m venv .venv
 ```
 
-***For Windows:*** To activate the virtual environment, you're going to use either the **Command Prompt**, **PowerShell**, or **Git Bash**.
+4. Activate your virtual environment.
+i. _For Windows:_ Use either the Command Prompt, PowerShell, or Git Bash.
 
 **Command Prompt:** <br>
 ```bash
@@ -52,13 +52,14 @@ python -m venv .venv
 source .venv/Scripts/activate
 ```
 
-***For macOS/Linux:*** For macOS or Linux, you're going to activate it using **bash / zsh**. <br>
+ii. _For macOS/Linux_: Use bash / zsh.
+
 ```bash
 source .venv/bin/activate
 ```
 
-4. Install the Dependencies on requirements.txt <br>
-Lastly, on the same terminal, copy & paste this command:
+5. Install the Dependencies on requirements.txt <br>
+Lastly, on the terminal, install the dependencies found on requirements.txt by copying & pasting this command:
 
 ```bash
 pip install -r requirements.txt
