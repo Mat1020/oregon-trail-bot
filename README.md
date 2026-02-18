@@ -25,7 +25,8 @@ git clone https://github.com/Mat1020/oregon-trail-bot.git
 
 2. If you haven't already done so, install the official latest version at [Python.org](https://www.python.org/), choose **your OS**, and follow the downloading instructions.
 
-**Python 3.10** or later is recommended.
+> [!IMPORTANT]
+> Latest Python version (e.g. Python 3.13+) is strongly recommended.
 
 3. Install and Activate a Virtual Environment (.venv/) <br>
 Within the repository you just cloned and opened, open the terminal and **create your virtual environment**:
