@@ -16,24 +16,19 @@ See [CONTRIBUTING.md](https://github.com/Mat1020/oregon-trail-bot?tab=contributi
 
 The Oregon Trail video game itself is **open source**, but, however, the link that I include in this repo (that opens up a new window to play it in your web browser) is not own by me, as it's work from another person. This is just a notice to avoid being Copyrighted.
 
-## Setup
-1. Clone This Repository <br>
-Open Git and copy & paste this command:
+## Installing
+1. To install this repository, open Git and copy & paste this command. Open it with your preferred code editor after doing so.
 
 ```bash
 git clone https://github.com/Mat1020/oregon-trail-bot.git
 ```
 
-Then, open it with your preferred **code editor/IDE**.
-
-
-2. Install Python on Your Computer <br>
-If you haven't already done so, install the official latest version at [Python.org](https://www.python.org/), choose **your OS**, and follow the downloading instructions.
+2. If you haven't already done so, install the official latest version at [Python.org](https://www.python.org/), choose **your OS**, and follow the downloading instructions.
 
 **Python 3.10** or later is recommended.
 
 3. Install and Activate a Virtual Environment (.venv/) <br>
-Within the repository you just cloned, open the terminal and **create your virtual environment**:
+Within the repository you just cloned and opened, open the terminal and **create your virtual environment**:
 
 ```bash
 python -m venv .venv
