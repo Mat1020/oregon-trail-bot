@@ -35,6 +35,7 @@ python -m venv .venv
 ```
 
 4. Activate your virtual environment.
+
 i. _For Windows:_ Use either the Command Prompt, PowerShell, or Git Bash.
 
 **Command Prompt:** <br>
