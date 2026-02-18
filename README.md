@@ -59,8 +59,7 @@ ii. _For macOS/Linux_: Use bash / zsh.
 source .venv/bin/activate
 ```
 
-5. Install the Dependencies on requirements.txt <br>
-Lastly, on the terminal, install the dependencies found on requirements.txt by copying & pasting this command:
+5. Lastly, on the terminal, install the dependencies found on requirements.txt by copying & pasting this command:
 
 ```bash
 pip install -r requirements.txt
