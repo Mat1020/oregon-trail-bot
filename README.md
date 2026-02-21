@@ -25,6 +25,8 @@ git clone https://github.com/Mat1020/oregon-trail-bot.git
 
 2. If you haven't already done so, install the official latest version at [Python.org](https://www.python.org/), choose **your OS**, and follow the downloading instructions.
 
+![Screenshot of Python.org](images/readme/downloads-python-org.png)
+
 > [!IMPORTANT]
 > Latest Python version (e.g. Python 3.13+) is strongly recommended.
 
