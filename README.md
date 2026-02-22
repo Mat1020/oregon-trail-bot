@@ -1,6 +1,10 @@
 # Oregon Trail Bot
 A collection of bots that automate and control gameplay behavior for [The Oregon Trail](https://www.pcjs.org/software/pcx86/game/other/1991/oregon_trail/) video game from 1991.
 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MSS](https://img.shields.io/badge/MSS-Screenshot-blue?style=for-the-badge)
+
 These bots are using the **Python** programming language, with 3 third-party libraries such as [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/), [OpenCV](https://opencv.org/), and [MSS](https://python-mss.readthedocs.io/) (or Multiple ScreenShots) are the core of these game bots. 
 
 This is also **cross-platform**, which means it works for all operating systems (Windows/MacOS/Linux), and it's **open source**, which means that anyone can use my code. 
