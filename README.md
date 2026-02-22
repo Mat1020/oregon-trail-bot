@@ -72,8 +72,10 @@ pip install -r requirements.txt
 ```
 
 # Start for Speedrunning Bot
-An autonomous bot that sets up the start for speedrunning in **under 15 seconds**.
+An autonomous bot that sets up the start for speedrunning in **under 15 seconds**. Used libraries:
 <br>
+
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Bot running](videos/readme/start-for-speedrunning.gif)
 
