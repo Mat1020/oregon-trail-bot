@@ -109,4 +109,4 @@ You should finish _your_ speedrun afterwards!
 
 # Novice Hunter Bot
 
-A dumb bot tagt shoots in alk directions constantly.
+A dumb bot that shoots in all 4 directions constantly.
